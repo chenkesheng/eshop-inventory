@@ -1,2 +1,3 @@
 # eshop-inventory
-redis缓存策略
+  
+  redis缓存策略
